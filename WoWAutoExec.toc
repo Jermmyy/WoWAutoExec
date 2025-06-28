@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: WoWAutoExec
+## Notes: Automatically runs commands
+## Version: 0.1
+## Author: Jermyy
+WoWAutoExec.lua
