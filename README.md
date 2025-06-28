@@ -1,6 +1,6 @@
 # WoWAUtoExec
 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Jermmyy/WoWAUtoExec)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Jermmyy/WoWAutoExec)
 
 **WoWAUtoExec** is a simple Turtle WoW addon that automatically runs the `/db taxi` command on login.
 
